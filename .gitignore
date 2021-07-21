@@ -46,7 +46,6 @@ env/
 build/
 develop-eggs/
 dist/
-downloads/
 eggs/
 # NOTE : lib/ prevents inclusion of static/visualiser/lib
 #lib/
